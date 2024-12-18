@@ -1,0 +1,23 @@
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Python compiled files (alternative pattern)
+*.py[cod]
+
+# Compiled extensions
+*.so
+
+# IDE specific files (common for Python development)
+.vscode/
+.idea/
+
+# Environment and package management
+venv/
+env/
+*.env
