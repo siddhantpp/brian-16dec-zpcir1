@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+A simple Python script that prints 'hello world' to the console.
+"""
+
+def print_hello_world():
+    """Prints 'hello world' to the console."""
+    print('hello world')
+
+if __name__ == '__main__':
+    print_hello_world()
